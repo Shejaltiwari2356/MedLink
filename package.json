@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.12.2",
+    "qrcode.react": "^4.2.0",
+    "react-qr-code": "^2.0.18",
+    "react-signature-canvas": "^1.1.0-alpha.2",
+    "ws": "^8.18.3"
+  }
+}
